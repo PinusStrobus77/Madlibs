@@ -1,0 +1,10 @@
+p{
+    text-align: left;
+}
+input{
+flex-direction: column;
+}
+
+body{
+    background-color: aliceblue;
+}
