@@ -8,3 +8,15 @@ flex-direction: column;
 body{
     background-color: aliceblue;
 }
+button {
+    text-align: end;
+}
+#answer {
+    text-align: center;
+    
+
+}
+.container{
+    display: flex
+    flex-flow: column wrap;
+}
